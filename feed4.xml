@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+	    <title>古古說test4</title>
+	    <link></link>
+	    <language>zh</language>
+	    <itunes:author>古古</itunes:author>
+	    <itunes:summary>工程師的日常生活</itunes:summary>  
+	    <itunes:owner>
+		    <itunes:name>古古</itunes:name>
+		    <itunes:email>pk74323jacky@gmail.com</itunes:email>
+	    </itunes:owner>
+	    <itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+	    <itunes:category text="Technology"/>
+
+	    <item>
+		    <title>EP4 第四集測試～～～～</title>
+		    <itunes:author>古古</itunes:author>
+		    <itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+            <enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep4.m4a" length="494444" type="audio/mpeg"/>
+            <guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep4.m4a</guid>
+		    <pubDate>Sat, 23 May 2020 23:25:00 UTC+8</pubDate>
+		    <itunes:duration>00:00:12</itunes:duration>
+	    </item>
+    </channel>
+</rss>
