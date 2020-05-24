@@ -12,6 +12,7 @@
 	    </itunes:owner>
 	    <itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 	    <itunes:category text="Technology"/>
+		<itunes:explicit>No</itunes:explicit>
 
 	    <item>
 		    <title>EP1 | 你到底該不該學程式語言？</title>
