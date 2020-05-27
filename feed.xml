@@ -5,7 +5,7 @@
 		<link></link>
 		<language>zh</language>
 		<itunes:author>古古</itunes:author>
-		<itunes:summary>工程師的日常生活</itunes:summary>
+		<itunes:summary>做自己想做的事情，過自己想過的生活\n\nFacebook: 古古說</itunes:summary>
 		<itunes:owner>
 			<itunes:name>古古</itunes:name>
 			<itunes:email>pk74323jacky@gmail.com</itunes:email>
@@ -16,6 +16,15 @@
 		</itunes:category>
 		<itunes:explicit>No</itunes:explicit>
 
+		<item>
+			<title>EP2 | 如何學好一門程式語言</title>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep2.mp3" length="5890425" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep2.mp3</guid>
+			<pubDate>Wed, 27 May 2020 20:20:00 UTC+8</pubDate>
+			<itunes:duration>00:04:05</itunes:duration>
+		</item>
 		<item>
 			<title>EP1 | 你到底該不該學程式語言？</title>
 			<itunes:author>古古</itunes:author>
