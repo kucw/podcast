@@ -26,6 +26,7 @@
 
 		<item>
 			<title>EP2 | 如何學好一門程式語言</title>
+			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep2.mp3" length="5890425" type="audio/mpeg"/>
@@ -35,6 +36,7 @@
 		</item>
 		<item>
 			<title>EP1 | 你到底該不該學程式語言？</title>
+			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep1.mp3" length="4998918" type="audio/mpeg"/>
