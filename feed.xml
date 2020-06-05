@@ -31,7 +31,7 @@
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep3.mp3" length="10812521" type="audio/mpeg"/>
 			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep3.mp3</guid>
-			<pubDate>Tue, 2 Jun 2020 21:00:00 UTC+8</pubDate>
+			<pubDate>Tue, 2 Jun 2020 21:00:00 +0800</pubDate>
 			<itunes:duration>00:07:30</itunes:duration>
 		</item>
 		<item>
@@ -41,7 +41,7 @@
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep2.mp3" length="5248439" type="audio/mpeg"/>
 			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep2.mp3</guid>
-			<pubDate>Wed, 27 May 2020 20:20:00 UTC+8</pubDate>
+			<pubDate>Wed, 27 May 2020 20:20:00 +0800</pubDate>
 			<itunes:duration>00:03:39</itunes:duration>
 		</item>
 		<item>
@@ -51,7 +51,7 @@
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep1.mp3" length="4998918" type="audio/mpeg"/>
 			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep1.mp3</guid>
-			<pubDate>Sun, 24 May 2020 17:17:00 UTC+8</pubDate>
+			<pubDate>Sun, 24 May 2020 17:17:00 +0800</pubDate>
 			<itunes:duration>00:03:28</itunes:duration>
 		</item>
 	</channel>
