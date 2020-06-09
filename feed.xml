@@ -25,6 +25,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP4 | 罷韓成功！探討網路世代的影響力</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep4.mp3" length="6175682" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep4.mp3</guid>
+			<pubDate>Tue, 9 Jun 2020 23:30:00 +0800</pubDate>
+			<itunes:duration>00:04:17</itunes:duration>
+		</item>
+		<item>
 			<title>EP3 | 來聊聊最近很夯的筆記軟體 Notion</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
