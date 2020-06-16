@@ -25,6 +25,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP5 | 如何轉職軟體工程師？</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5.mp3" length="9278402" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5.mp3</guid>
+			<pubDate>Tue, 16 Jun 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:06:26</itunes:duration>
+		</item>
+		<item>
 			<title>EP4 | 罷韓成功！探討網路世代的影響力</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
