@@ -25,6 +25,16 @@ Facebook: 古古說
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP6 | 如何經營自己的個人品牌？錄製 Podcast 的心得分享</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep6.mp3" length="11069566" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep6.mp3</guid>
+			<pubDate>Mon, 22 Jun 2020 21:00:00 +0800</pubDate>
+			<itunes:duration>00:07:41</itunes:duration>
+		</item>
+		<item>
 			<title>EP5 | 如何轉職軟體工程師？</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
