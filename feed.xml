@@ -25,6 +25,16 @@ Facebook: 古古說
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP7 | 到底什麼是雲端服務？新創從業不可不知！</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep7.mp3" length="7816381" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep7.mp3</guid>
+			<pubDate>Tue, 30 Jun 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:05:26</itunes:duration>
+		</item>
+		<item>
 			<title>EP6 | 如何經營自己的個人品牌？錄製 Podcast 的心得分享</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>

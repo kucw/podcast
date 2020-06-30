@@ -42,7 +42,7 @@ youtube-upload \
   --title="$2" \
   --description="
 如果你喜歡這支影片，歡迎到 Facebook 粉絲專頁按讚追蹤 👏🏻
-Facebook 古古說：https://www.facebook.com/%E5%8F%A4%E5%8F%A4%E8%AA%AA-106199997778253
+Facebook 古古說：https://www.facebook.com/kukutalking/posts
 
 也可以在 Podcast 上收聽我的節目哦 ⭐
 Apple Podcast：https://podcasts.apple.com/tw/podcast/%E5%8F%A4%E5%8F%A4%E8%AA%AA/id1515003927
@@ -52,7 +52,7 @@ Spotiy：https://open.spotify.com/show/6SL4YB8TOPIbJQi7zDEFqA
   $HOME/podcast/youtube/output.mkv
 echo -e "\033[32mUpload successfully\033[0m"
 
-# echo -e "\n===> Remove local video file"
+echo -e "\n===> Remove local video file"
 rm $HOME/podcast/youtube/output.mkv
 echo -e "\033[32mRemove successfully\033[0m"
 
