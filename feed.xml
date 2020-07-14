@@ -25,6 +25,16 @@ Facebook: 古古說
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP8 | 2020 的上半年回顧，你做了嗎？</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep8.mp3" length="6139946" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep8.mp3</guid>
+			<pubDate>Tue, 14 Jul 2020 20:10:00 +0800</pubDate>
+			<itunes:duration>00:04:16</itunes:duration>
+		</item>
+		<item>
 			<title>EP7 | 到底什麼是雲端服務？新創從業不可不知！</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
