@@ -24,6 +24,16 @@ Facebook: 古古說
 		</itunes:category>
 		<itunes:explicit>No</itunes:explicit>
 
+        <item>
+			<title>EP11 | 科技業 HR 來了！HR 徵才標準大公開（下）</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep11.mp3" length="31761627" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep11.mp3</guid>
+			<pubDate>Wed, 5 Aug 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:15:17</itunes:duration>
+		</item>
 		<item>
 			<title>EP10 | 科技業 HR 來了！HR 徵才標準大公開（上）</title>
 			<itunes:summary></itunes:summary>
