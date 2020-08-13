@@ -19,9 +19,10 @@ Facebook: 古古說
 			<itunes:email>pk74323jacky@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
-		<itunes:category text="Education">
+		<itunes:category text="Technology"></itunes:category>
+		<!-- <itunes:category text="Education">
 			<itunes:category text="Self-Improvement"/>
-		</itunes:category>
+		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
