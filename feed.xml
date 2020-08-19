@@ -32,6 +32,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP13 | 第一次擺攤就上手！科技博覽會一日遊</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep13.mp3" length="8993145" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep13.mp3</guid>
+			<pubDate>Wed, 19 Aug 2020 20:00:00 +0800</pubDate>
+			<itunes:duration>00:06:15</itunes:duration>
+		</item>
+		<item>
 			<title>EP12 | 如何開始你的第一個 Side Project？過來人的經驗分享</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
