@@ -32,6 +32,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP15 | 跨領域人才正夯！如何正確運用程式的力量？</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep15.mp3" length="7638330" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep15.mp3</guid>
+			<pubDate>Wed, 2 Sep 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:05:18</itunes:duration>
+		</item>
+		<item>
 			<title>EP14 | 大公司和小公司如何做選擇？</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
