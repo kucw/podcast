@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+同學你好，我在我的 Mac 上測試的效果如下，看起來還是因為 tab 的關係導致你的縮排有問題，再麻煩同學檢查一下你的程式碼是不是有包含到 tab
+另外也建議你可以把你的 exampleSite 裡的 resources 資料夾刪掉，因為 hugo 會 cache 住上一次的 build，所以也有可能是這個造成的問題，再麻煩同學試試看這個方法是否奏效（也可以嘗試重新開機！）
 	<channel>
 		<title>古古說</title>
 		<link></link>
@@ -31,6 +33,16 @@
 		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
 
+		<item>
+			<title>EP16 | 探索海底世界！水肺潛水OW（Open Water）考照分享</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep16.mp3" length="19100949" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep16.mp3</guid>
+			<pubDate>Thu, 10 Sep 2020 22:00:00 +0800</pubDate>
+			<itunes:duration>00:09:26</itunes:duration>
+		</item>
 		<item>
 			<title>EP15 | 跨領域人才正夯！如何正確運用程式的力量？</title>
 			<itunes:summary></itunes:summary>
