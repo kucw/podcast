@@ -34,6 +34,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP17 | 實測共享機車，共享經濟的未來在哪裡？</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep17.mp3" length="9064616" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep17.mp3</guid>
+			<pubDate>Wed, 23 Sep 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:06:18</itunes:duration>
+		</item>
+		<item>
 			<title>EP16 | 探索海底世界！水肺潛水OW（Open Water）考照分享</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
