@@ -32,7 +32,17 @@
 			<itunes:category text="Self-Improvement"/>
 		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
-
+		
+		<item>
+			<title>EP18 | 中秋閒聊</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep18.mp3" length="7031453" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep18.mp3</guid>
+			<pubDate>Thu, 1 Oct 2020 20:30:00 +0800</pubDate>
+			<itunes:duration>00:04:53</itunes:duration>
+		</item>
 		<item>
 			<title>EP17 | 實測共享機車，共享經濟的未來在哪裡？</title>
 			<itunes:summary></itunes:summary>
