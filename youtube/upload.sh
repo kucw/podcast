@@ -46,7 +46,7 @@ Facebook 古古說：https://www.facebook.com/kukutalking/posts
 
 也可以在 Podcast 上收聽我的節目哦 ⭐
 Apple Podcast：https://podcasts.apple.com/tw/podcast/%E5%8F%A4%E5%8F%A4%E8%AA%AA/id1515003927
-Spotiy：https://open.spotify.com/show/6SL4YB8TOPIbJQi7zDEFqA
+Spotify：https://open.spotify.com/show/6SL4YB8TOPIbJQi7zDEFqA
 " \
   --client-secrets="$HOME/podcast/youtube/my_client_secret.json" \
   $HOME/podcast/youtube/output.mkv
