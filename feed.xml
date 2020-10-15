@@ -32,7 +32,17 @@
 			<itunes:category text="Self-Improvement"/>
 		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
-		
+
+		<item>
+			<title>EP20 | 你有多自律，就有多自由</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep20.mp3" length="8927120" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep20.mp3</guid>
+			<pubDate>Thu, 15 Oct 2020 21:00:00 +0800</pubDate>
+			<itunes:duration>00:05:46</itunes:duration>
+		</item>	
 		<item>
 			<title>EP19 | 科技業和軟體業如何做選擇？</title>
 			<itunes:summary></itunes:summary>
