@@ -34,6 +34,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP22 | 自律的起點，從了解自己每天做了什麼開始</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep22.mp3" length="11311564" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep22.mp3</guid>
+			<pubDate>Wed, 11 Nov 2020 18:30:00 +0800</pubDate>
+			<itunes:duration>00:07:51</itunes:duration>
+		</item>	
+		<item>
 			<title>EP21 | 工程師應該具備的簡報能力</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
