@@ -6,7 +6,7 @@
 		<title>古古說</title>
 		<link></link>
 		<description>
-哈囉大家好我是古古，畢業於台大資工所，目前在Garmin擔任Java後端工程師
+哈囉我是古古，畢業於台大資工所，目前在Garmin擔任Java後端工程師
 
 古古說是一個分享工程師成長經歷的節目，內容涵蓋程式語言、個人成長、職涯發展，大家一起勇猛精進啦～
 
@@ -16,7 +16,7 @@
 		<language>zh</language>
 		<itunes:author>古古</itunes:author>
 		<itunes:summary>
-哈囉大家好我是古古，畢業於台大資工所，目前在Garmin擔任Java後端工程師
+哈囉我是古古，畢業於台大資工所，目前在Garmin擔任Java後端工程師
 
 古古說是一個分享工程師成長經歷的節目，內容涵蓋程式語言、個人成長、職涯發展，大家一起勇猛精進啦～
 
@@ -33,6 +33,16 @@
 		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
 
+		<item>
+			<title>EP23 | 在 JCConf 當講者的心得分享</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep23.mp3" length="9920387" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep23.mp3</guid>
+			<pubDate>Thu, 26 Nov 2020 21:00:00 +0800</pubDate>
+			<itunes:duration>00:06:53</itunes:duration>
+		</item>	
 		<item>
 			<title>EP22 | 自律的起點，從了解自己每天做了什麼開始</title>
 			<itunes:summary></itunes:summary>
