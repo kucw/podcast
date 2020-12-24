@@ -32,6 +32,21 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP25 | 電子書閱讀器 Kobo 使用心得</title>
+			<itunes:summary>
+			🤖Instagram：程人頻道 chengrenpindao3
+			🤖聯絡信箱：techporn7@gmail.com
+			🤖聯絡方式及各大平台上架 https://linktr.ee/chengrenpindao3
+			Available on : SoundOn, Spotify, Apple Podcast, Google Podcast, KKbox, Hoost, Firstory
+			</itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep25.mp3" length="13843770" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep25.mp3</guid>
+			<pubDate>Thu, 24 Dec 2020 22:00:00 +0800</pubDate>
+			<itunes:duration>00:09:36</itunes:duration>
+		</item>	
+		<item>
 			<title>EP24 | 如何找到一份理想的工作</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
