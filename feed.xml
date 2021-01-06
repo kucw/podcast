@@ -32,6 +32,16 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP26 | 不為過去後悔，永遠相信未來</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep26.mp3" length="8957409" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep26.mp3</guid>
+			<pubDate>Wed, 6 Jan 2021 22:00:00 +0800</pubDate>
+			<itunes:duration>00:06:13</itunes:duration>
+		</item>	
+		<item>
 			<title>EP25 | 電子書閱讀器 Kobo 使用心得</title>
 			<itunes:summary></itunes:summary>
 			<description>
