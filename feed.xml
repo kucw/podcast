@@ -32,6 +32,20 @@
 		<itunes:explicit>No</itunes:explicit>
 
 		<item>
+			<title>EP27 | 在 Hahow 開線上課程的經驗分享（募資篇）</title>
+			<itunes:summary></itunes:summary>
+			<description>
+「Java 工程師必備！Spring Boot 零基礎入門」：https://hahow.in/cr/springboot
+「Github 免費架站術！輕鬆打造個人品牌」：https://hahow.in/cr/kucw-github-hugo
+			</description>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep27.mp3" length="28716193" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep27.mp3</guid>
+			<pubDate>Wed, 27 Jan 2021 23:30:00 +0800</pubDate>
+			<itunes:duration>00:11:58</itunes:duration>
+		</item>	
+		<item>
 			<title>EP26 | 不為過去後悔，永遠相信未來</title>
 			<itunes:summary></itunes:summary>
 			<itunes:author>古古</itunes:author>
