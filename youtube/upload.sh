@@ -49,6 +49,7 @@ Apple Podcast：https://podcasts.apple.com/tw/podcast/%E5%8F%A4%E5%8F%A4%E8%AA%A
 Spotify：https://open.spotify.com/show/6SL4YB8TOPIbJQi7zDEFqA
 " \
   --client-secrets="$HOME/podcast/youtube/my_client_secret.json" \
+  --credentials="$HOME/podcast/youtube/youtube-upload-credentials.json" \
   $HOME/podcast/youtube/output.mkv
 echo -e "\033[32mUpload successfully\033[0m"
 
