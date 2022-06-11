@@ -228,14 +228,17 @@ Available on : SoundOn, Spotify, Apple Podcast, Google Podcast, KKbox, Hoost, Fi
 			<itunes:duration>00:13:27</itunes:duration>
 		</item>
 		<item>
-			<title>EP9 | 如何高效率的學習程式語言</title>
+			<title>EP9 | 如何高效率的學習程式語言？</title>
 			<itunes:summary></itunes:summary>
+			<description>
+本集節目參加 「Hahow Podcast 串連活動」
+			</description>
 			<itunes:author>古古</itunes:author>
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
-			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep9.mp3" length="14771013" type="audio/mpeg"/>
-			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep9.mp3</guid>
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep9_hahow_event.mp3" length="14878219" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep9_hahow_event.mp3</guid>
 			<pubDate>Thu, 23 Jul 2020 16:00:00 +0800</pubDate>
-			<itunes:duration>00:10:15</itunes:duration>
+			<itunes:duration>00:10:20</itunes:duration>
 		</item>
 		<item>
 			<title>EP8 | 2020 的上半年回顧，你做了嗎？</title>
@@ -270,12 +273,15 @@ Available on : SoundOn, Spotify, Apple Podcast, Google Podcast, KKbox, Hoost, Fi
 		<item>
 			<title>EP5 | 如何轉職軟體工程師？</title>
 			<itunes:summary></itunes:summary>
+			<description>
+本集節目參加 「Hahow Podcast 串連活動」
+			</description>
 			<itunes:author>古古</itunes:author>
 			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
-			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5.mp3" length="9278402" type="audio/mpeg"/>
-			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5.mp3</guid>
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5_hahow_event.mp3" length="9385608" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep5_hahow_event.mp3</guid>
 			<pubDate>Tue, 16 Jun 2020 20:30:00 +0800</pubDate>
-			<itunes:duration>00:06:26</itunes:duration>
+			<itunes:duration>00:06:31</itunes:duration>
 		</item>
 		<item>
 			<title>EP4 | 罷韓成功！探討網路世代的影響力</title>
