@@ -42,7 +42,7 @@ youtube-upload \
   --title="$2" \
   --description="
 如果你喜歡這支影片，歡迎到 Facebook 粉絲專頁按讚追蹤 👏🏻
-Facebook 古古說：https://www.facebook.com/kukutalking/posts
+Facebook 古古說：https://www.facebook.com/kukutalking
 
 也可以在 Podcast 上收聽我的節目哦 ⭐
 Apple Podcast：https://podcasts.apple.com/tw/podcast/%E5%8F%A4%E5%8F%A4%E8%AA%AA/id1515003927
