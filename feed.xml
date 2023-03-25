@@ -6,7 +6,7 @@
 		<description>
 古古說是一個分享工程師成長經歷的節目，內容涵蓋程式語言、個人成長、職涯發展，更多資訊可以關注Facebook粉絲專頁「古古說」 https://www.facebook.com/kukutalking
 		</description>
-		<email>pk74323jacky@gmail.com</email>
+		<email>kukutalking@gmail.com</email>
 		<language>zh</language>
 		<itunes:author>古古</itunes:author>
 		<itunes:summary>
@@ -14,7 +14,7 @@
 		</itunes:summary>
 		<itunes:owner>
 			<itunes:name>古古</itunes:name>
-			<itunes:email>pk74323jacky@gmail.com</itunes:email>
+			<itunes:email>kukutalking@gmail.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
 		<itunes:category text="Technology"></itunes:category>
@@ -23,6 +23,16 @@
 		</itunes:category> -->
 		<itunes:explicit>No</itunes:explicit>
 
+		<item>
+			<title>EP30 | 回台灣了，下一個路口在哪裡？</title>
+			<itunes:summary></itunes:summary>
+			<itunes:author>古古</itunes:author>
+			<itunes:image href="https://raw.githubusercontent.com/kucw/podcast/master/cover.jpg" />
+			<enclosure url="https://raw.githubusercontent.com/kucw/podcast/master/episode/ep30.mp3" length="20121308" type="audio/mpeg"/>
+			<guid isPermaLink="false">https://raw.githubusercontent.com/kucw/podcast/master/episode/ep30.mp3</guid>
+			<pubDate>Sat, 25 Mar 2023 15:30:00 +0800</pubDate>
+			<itunes:duration>00:13:58</itunes:duration>
+		</item>	
 		<item>
 			<title>EP29 | 28 歲，我離職了！</title>
 			<itunes:summary></itunes:summary>
